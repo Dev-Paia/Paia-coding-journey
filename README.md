@@ -7,6 +7,10 @@ A raw, unfiltered log of my journey becoming a developer — balancing code, col
 
 - Created GitHub account and set up profile
 - Started this journey log
+- Created "Paia-coding-journey" repository
+- Wrote initial README.md structure
+- Planned weekly update schedule (every Sunday)
+  
 - Outlined personal roadmap: 
   - Code every day 
   - Build and share projects regularly
