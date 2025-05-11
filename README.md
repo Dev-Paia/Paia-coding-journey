@@ -2,8 +2,10 @@
 
 A raw, unfiltered log of my journey becoming a developer — balancing code, college, and discipline. This space tracks my progress, mistakes, and growth as I build my skills, one commit at a time.
 
-**Note:** Although I created this GitHub journey log in May 2025, I'm currently in my second semester (started in February 2025). This log begins from the point I decided to start documenting publicly, not from when I first started coding.
-
+**Note:**
+- This log begins in **May 2025**, during my second semester of college.
+- I’ve been coding since **Grade 9**, starting with C and Java (around 2020–2021), though not seriously.
+- Started this GitHub log to consistently track and share my growth going forward.
 
 ## May 2025 – Week 1 ##
 
