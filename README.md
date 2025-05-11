@@ -34,3 +34,4 @@ A raw, unfiltered log of my journey becoming a developer — balancing code, col
 
      - Planning to explore PHP login systems 
      - Will revisit SQL joins next week
+[view Week 2 code](./week-2%3Acode/)
