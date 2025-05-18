@@ -36,3 +36,11 @@ A raw, unfiltered log of my journey becoming a developer — balancing code, col
      - Will revisit SQL joins next week
 
 Week-2 code: [View](./week-2%3Acode/)
+
+
+## May 2025 – Week 3
+
+- Limited progress this week due to second semester exams  
+- Prioritized academic preparation over coding tasks  
+- Used the downtime to reflect on learning strategy and future goals  
+- Plan to resume consistent coding practice post-exams
